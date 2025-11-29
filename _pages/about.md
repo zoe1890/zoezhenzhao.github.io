@@ -19,13 +19,13 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD student from the School of Design at The
 - *2017.09 - 2020.03*, MPhil in Art Design, School of Arts, Tiangong University, Tianjin, China
 - *2013.09 - 2017.07*, BA in Art Design, School of Arts, Tiangong University, Tianjin, China
 
-# 🔥 News
-- *2025.10*: &nbsp;🎉 Our paper has been accepted at 11th Conferences of the International Association of Societies of Design Research (IASDR) in Taiwan.
-- *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore. 
-
 # 💻 Working Experiences
 - *2020.08 - 2020.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China.
 - *2020.08 - 2020.12*, [Assistant Designer], Tencent, Tianjin, China.
+
+# 🔥 News
+- *2025.10*: &nbsp;🎉 Our paper has been accepted at 11th Conferences of the International Association of Societies of Design Research (IASDR) in Taiwan.
+- *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore. 
 
 # 📝 Publications 
 
