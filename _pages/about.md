@@ -1,4 +1,4 @@
----
+<img width="432" height="25" alt="image" src="https://github.com/user-attachments/assets/7aecead1-1d2b-40be-8c5d-0d2092b6af75" /><img width="432" height="25" alt="image" src="https://github.com/user-attachments/assets/bbff8a30-8c8f-42ec-8e54-c94d2ee43eea" /><img width="432" height="38" alt="image" src="https://github.com/user-attachments/assets/fdfcf48c-03ee-492e-9541-bd4337becdbd" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -20,12 +20,14 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 - *2013.09 - 2017.07*, BA in Art Design, School of Arts, Tiangong University, Tianjin, China
 
 # 💻 Working Experiences
-- *2020.08 - 2020.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China.
-- *2020.08 - 2020.12*, [Assistant Designer], Tencent, Tianjin, China.
+- *2023.05 - 2024.12*, [Teaching Assistant], School of Design, Hong Kong Polytechnic University, Hong Kong
+- *2020.08 - 2022.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China
+- *2018.08 - 2019.08*, [Assistant Designer], Tencent, Tianjin, China
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 Our paper has been accepted at 11th Conferences of the International Association of Societies of Design Research (IASDR) in Taiwan.
-- *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore. 
+- *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore.
+- *2025.08*: &nbsp;🎉 Our paper has been accepted by Health Informatic Journal.
 
 # 📝 Publications 
 <!-- paper 1 -->
@@ -59,12 +61,13 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Research Experiences 
+- *2025-2028*, Co-I: XR-based Embodied Affective-haptic Design in Emotional Engagement for Older Adults. PolyU, HK$ 500,000 
+- *2023-2025*, Key team member: Ecosystem design of sensoring technology-enabled mobility monitoring among persons with disabilities and chronic disease. Research Centre of Future (Caring) Mobility, PolyU, HK$ 300,000
+- *2023-2024*, Key team member: Design intelligence in smart homes for solitary seniors: a pilot study on an IoT-based, interactive indoor tracking system. TCL Corporate Research (Hong Kong) Co., Limited, HK$ 455,000
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  # 🎖 Honors and Awards
+- *2021.12* Second Prize of the second “The Spirit of National Art” Works Achievements, Ministry of Education of China
+- *2020.10* Third Prize of the First “Sichuan Forest Grassland Fire Protection Public Welfare Micro Video” Competition, Sichuan Forestry Bureau
+- *2017-2019* Second-class Postgraduate Scholarship, Tiangong University
 
-  
