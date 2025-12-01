@@ -36,7 +36,7 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 
 [An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities]
 
-Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
+Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*<br>
 2025.10
 
 </div>
@@ -47,7 +47,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
 
 [Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://journals.sagepub.com/doi/full/10.1177/14604582251363546)
 
-Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
+Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*<br>
 2025.07
 
 </div>
@@ -59,8 +59,8 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 
 [Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490230)
 
-Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
-2024.11
+Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*<br>
+2025.06
 
 </div>
 </div>
@@ -71,35 +71,48 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 
 [The Effects of Virtual Reality–Based Reminiscence Therapies for Older Adults With Cognitive Impairment: Systematic Review](https://www.jmir.org/2024/1/e53348/PDF.pdf)
 
-Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*
-2025.10
+Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
+2024.11
 
 </div>
 </div>
 
 <!-- paper 5 -->
-<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Design Journal</div><img src='images/dj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HFES 2023</div><img src='images/ahfe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A human-centred design strategy for self-training healthcare service among visually impaired persons](https://www.tandfonline.com/doi/abs/10.1080/14606925.2023.2225718)
+[Overcoming Obstacles: Examining User Resistance to Home-Based Health Monitoring Systems Among Older Adults](https://www.researchgate.net/profile/Hailiang_Wang4/publication/381333614_Overcoming_Obstacles_Examining_User_Resistance_to_Home-based_Health_Monitoring_Systems_among_Older_Adults/links/6686c89c0a25e27fbc247bcc/Overcoming-Obstacles-Examining-User-Resistance-to-Home-based-Health-Monitoring-Systems-among-Older-Adults.pdf)
 
-Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*
-2023.09
+Zhao, Z., Mao, Q., Chak, Y., Cheung, T., and Wang, H.L.*<br>
+2024.01
 
 </div>
 </div>
 
 <!-- paper 6 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Design Journal</div><img src='images/dj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A human-centred design strategy for self-training healthcare service among visually impaired persons](https://www.tandfonline.com/doi/abs/10.1080/14606925.2023.2225718)
+
+Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
+2023.09
+
+</div>
+</div>
+
+<!-- paper 7 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HFES 2023</div><img src='images/hfes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Self-management for Long COVID: Using Double Diamond Model to Design A mHealth App](https://journals.sagepub.com/doi/abs/10.1177/21695067231192582)
 
-Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*
+Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 2023.09
 
 </div>
 </div>
+
 
 # 💬 Research Experiences 
 - *2025-2028*, Co-I: XR-based Embodied Affective-haptic Design in Emotional Engagement for Older Adults. PolyU, HK$ 500,000 
