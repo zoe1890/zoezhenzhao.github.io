@@ -78,7 +78,7 @@ Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
 </div>
 
 <!-- paper 5 -->
-<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HFES 2023</div><img src='images/ahfe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">AHFE 2024</div><img src='images/ahfe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming Obstacles: Examining User Resistance to Home-Based Health Monitoring Systems Among Older Adults](https://www.researchgate.net/profile/Hailiang_Wang4/publication/381333614_Overcoming_Obstacles_Examining_User_Resistance_to_Home-based_Health_Monitoring_Systems_among_Older_Adults/links/6686c89c0a25e27fbc247bcc/Overcoming-Obstacles-Examining-User-Resistance-to-Home-based-Health-Monitoring-Systems-among-Older-Adults.pdf)
