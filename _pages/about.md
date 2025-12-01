@@ -34,7 +34,7 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">IASDR 2025</div><img src='images/iasdr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities](zhao-et-al-2025-hij.pdf)
+[An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities]
 
 Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
 </div>
@@ -43,7 +43,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Informatics</div><img src='images/hij.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://zhao-et-al-2025-hij.pdf)
 
 Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 
@@ -65,4 +65,5 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 - *2025-2028*, Co-I: XR-based Embodied Affective-haptic Design in Emotional Engagement for Older Adults. PolyU, HK$ 500,000 
 - *2023-2025*, Key team member: Ecosystem design of sensoring technology-enabled mobility monitoring among persons with disabilities and chronic disease. Research Centre of Future (Caring) Mobility, PolyU, HK$ 300,000
 - *2023-2024*, Key team member: Design intelligence in smart homes for solitary seniors: a pilot study on an IoT-based, interactive indoor tracking system. TCL Corporate Research (Hong Kong) Co., Limited, HK$ 455,000
+- *2022-2024*, Key team member: Elderly-oriented design with virtual reality and sensing technology: prevention and evaluation of mild cognitive impairment among older adults, Shenzhen Municipal Science and Technology Innovation Commission, HK$ 350,000 
 
