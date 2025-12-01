@@ -29,7 +29,7 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 - *2025.10*: &nbsp;🎉 Our paper has been accepted as a poster presentation at International Conference on Human-Engaged Computing (ICHEC 2025) in Singapore.
 - *2025.08*: &nbsp;🎉 Our paper has been accepted by Health Informatic Journal.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <!-- paper 1 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">IASDR 2025</div><img src='images/iasdr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +43,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Informatics</div><img src='images/hij.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://journals.sagepub.com/doi/pdf/10.1177/14604582251363546.pdf)
+[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://journals.sagepub.com/doi/full/10.1177/14604582251363546.pdf)
 
 Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 
@@ -54,7 +54,7 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Communication</div><img src='images/healthcomm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://www.tandfonline.com/doi/pdf/10.1080/10410236.2025.2490230.pdf)
+[Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490230.pdf)
 
 Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 
@@ -62,12 +62,37 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 </div>
 
 <!-- paper 4 -->
-<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Communication</div><img src='images/jmir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">JMIR</div><img src='images/jmir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Effects of Virtual Reality–Based Reminiscence Therapies for Older Adults With Cognitive Impairment: Systematic Review](https://www.jmir.org/2024/1/e53348/PDF.pdf)
 
-Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
+Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*
+
+
+</div>
+</div>
+
+<!-- paper 5 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Design Journal</div><img src='images/dj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A human-centred design strategy for self-training healthcare service among visually impaired persons](https://www.tandfonline.com/doi/abs/10.1080/14606925.2023.2225718.pdf)
+
+Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*
+
+
+</div>
+</div>
+
+<!-- paper 6 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HFES 2023</div><img src='images/hfes.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Self-management for Long COVID: Using Double Diamond Model to Design A mHealth App](https://journals.sagepub.com/doi/abs/10.1177/21695067231192582.pdf)
+
+Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*
+
 
 </div>
 </div>
