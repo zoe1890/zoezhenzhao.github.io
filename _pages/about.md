@@ -66,8 +66,3 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 - *2023-2025*, Key team member: Ecosystem design of sensoring technology-enabled mobility monitoring among persons with disabilities and chronic disease. Research Centre of Future (Caring) Mobility, PolyU, HK$ 300,000
 - *2023-2024*, Key team member: Design intelligence in smart homes for solitary seniors: a pilot study on an IoT-based, interactive indoor tracking system. TCL Corporate Research (Hong Kong) Co., Limited, HK$ 455,000
 
-  # 🎖 Honors and Awards
-- *2021.12* Second Prize of the second “The Spirit of National Art” Works Achievements, Ministry of Education of China
-- *2020.10* Third Prize of the First “Sichuan Forest Grassland Fire Protection Public Welfare Micro Video” Competition, Sichuan Forestry Bureau
-- *2017-2019* Second-class Postgraduate Scholarship, Tiangong University
-
