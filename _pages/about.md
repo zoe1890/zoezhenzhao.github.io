@@ -43,7 +43,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Informatics</div><img src='images/hij.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://zhao-et-al-2025-hij.pdf)
+[Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://journals.sagepub.com/doi/pdf/10.1177/14604582251363546.pdf)
 
 Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 
@@ -54,7 +54,18 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Communication</div><img src='images/healthcomm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://www.tandfonline.com/doi/pdf/10.1080/10410236.2025.2490230.pdf)
+
+Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
+
+</div>
+</div>
+
+<!-- paper 4 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Communication</div><img src='images/jmir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Effects of Virtual Reality–Based Reminiscence Therapies for Older Adults With Cognitive Impairment: Systematic Review](https://www.jmir.org/2024/1/e53348/PDF.pdf)
 
 Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*
 
