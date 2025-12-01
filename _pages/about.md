@@ -34,7 +34,7 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">IASDR 2025</div><img src='images/iasdr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities](zhao-et-al-2025-hij.pdf)
 
 Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*
 </div>
