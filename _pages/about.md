@@ -30,7 +30,19 @@ Hi, I'm Zhen Zhao. I'm a third-year PhD candidate from the School of Design at T
 - *2025.08*: &nbsp;🎉 Our paper has been accepted by Health Informatic Journal.
 
 # 📝 Selected Publications 
-<!-- paper 1 -->
+<!-- paper 8 -->
+<div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Cumulus 2025</div><img src='images/cumulus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Feeling Breath Feeling You: Co-design a Cyborg-Mediated Somaesthetic Ritual for Social Connectedness]
+
+Yin, Z.Y. *, Zhao, Z., Wang, H., Van, K., and Siu, K.W<br>
+🗓️ 2025.11
+
+</div>
+</div>
+
+<!-- paper 7 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">IASDR 2025</div><img src='images/iasdr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,7 +54,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*<br>
 </div>
 </div>
 
-<!-- paper 2 -->
+<!-- paper 6 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Informatics</div><img src='images/hij.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,7 +66,7 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*<br>
 </div>
 </div>
 
-<!-- paper 3 -->
+<!-- paper 5 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Health Communication</div><img src='images/healthcomm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,7 +90,7 @@ Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
 </div>
 </div>
 
-<!-- paper 5 -->
+<!-- paper 3 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">AHFE 2024</div><img src='images/ahfe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,7 +102,7 @@ Zhao, Z., Mao, Q., Chak, Y., Cheung, T., and Wang, H.L.*<br>
 </div>
 </div>
 
-<!-- paper 6 -->
+<!-- paper 2 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">Design Journal</div><img src='images/dj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,7 +114,7 @@ Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 </div>
 </div>
 
-<!-- paper 7 -->
+<!-- paper 1 -->
 <div class='paper-box'><div class='paper-box-image' style="width: 300px; min-width: 300px; margin-right: 20px;"><div><div class="badge">HFES 2023</div><img src='images/hfes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
