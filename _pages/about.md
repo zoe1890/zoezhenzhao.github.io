@@ -20,7 +20,7 @@ Hi, I'm Zhen Zhao (Zoe). I'm a Fourth-year PhD candidate from the School of Desi
 - *2013.09 - 2017.07*, BA in Art Design, School of Arts, Tiangong University, Tianjin, China
 
 # 💻 Working Experiences
-- *2025.08 - present*, [Adjunct Lecturer], School of Intelligent Systems Science and Engineering, Jinan University, Guangdong
+- *2025.08 - now*, [Adjunct Lecturer], School of Intelligent Systems Science and Engineering, Jinan University, Guangdong
 - *2023.05 - 2024.12*, [Teaching Assistant], School of Design, Hong Kong Polytechnic University, Hong Kong
 - *2020.08 - 2022.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China
 - *2018.08 - 2019.08*, [Assistant Designer], Tencent, Tianjin, China
