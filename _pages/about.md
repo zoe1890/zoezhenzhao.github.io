@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About
-Hi, I'm Zhen Zhao (Zoe). I'm a third-year PhD candidate from the School of Design at The Hong Kong Polytechnic University. I am supervised by Prof. Hailiang Wang, along with my co-supervisors Prof. Jeffrey C.F. Ho and Prof. Brian Lee. My research interests are Embodied Haptic Interaction, User Experience Design, and Design for Active Aging, with a specific focus on technology-mediated health behavior change. I am dedicated to exploring how embodied design can be utilized to mediate human perception and motivate sustainable health behavior change. Feel free to reach out if you’d like to discuss research or explore potential collaboration!
+Hi, I'm Zhen Zhao (Zoe). I'm a Fourth-year PhD candidate from the School of Design at The Hong Kong Polytechnic University. I am supervised by Prof. Hailiang Wang, along with my co-supervisors Prof. Jeffrey C.F. Ho and Prof. Brian Lee. My research interests are Embodied Haptic Interaction, User Experience Design, and Design for Active Aging, with a specific focus on technology-mediated health behavior change. I am dedicated to exploring how embodied design can be utilized to mediate human perception and motivate sustainable health behavior change. Feel free to reach out if you’d like to discuss research or explore potential collaboration!
 
 # 📖 Educations
 - *2023.01 - now*, PhD Student in Design, School of Design, Hong Kong Polytechnic University, Hong Kong
@@ -20,6 +20,7 @@ Hi, I'm Zhen Zhao (Zoe). I'm a third-year PhD candidate from the School of Desig
 - *2013.09 - 2017.07*, BA in Art Design, School of Arts, Tiangong University, Tianjin, China
 
 # 💻 Working Experiences
+- *2025.08 - present*, [Adjunct Lecturer], School of Intelligent Systems Science and Engineering, Jinan University, Guangdong
 - *2023.05 - 2024.12*, [Teaching Assistant], School of Design, Hong Kong Polytechnic University, Hong Kong
 - *2020.08 - 2022.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China
 - *2018.08 - 2019.08*, [Assistant Designer], Tencent, Tianjin, China
