@@ -76,6 +76,7 @@ Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*<br>
 
 [Understanding Embodied Experiences in a Traditional Chinese Medicine-based Health Promotion Program: Insights from In-depth Interviews and Participant Observations](https://www.tandfonline.com/doi/full/10.1080/10410236.2025.2490230)
 
+Health Communication<br>
 Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*<br>
 🗓️ 2025.06
 
@@ -88,6 +89,7 @@ Lyu, S., Zhao, Z., Liu, G.H., and Zhou, S.*<br>
 
 [The Effects of Virtual Reality–Based Reminiscence Therapies for Older Adults With Cognitive Impairment: Systematic Review](https://www.jmir.org/2024/1/e53348/PDF.pdf)
 
+JMIR<br>
 Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
 🗓️ 2024.11
 
@@ -100,6 +102,7 @@ Mao, Q., Zhao, Z., Yu, L.S., and Wang, H.L.*<br>
 
 [Overcoming Obstacles: Examining User Resistance to Home-Based Health Monitoring Systems Among Older Adults](https://www.researchgate.net/profile/Hailiang_Wang4/publication/381333614_Overcoming_Obstacles_Examining_User_Resistance_to_Home-based_Health_Monitoring_Systems_among_Older_Adults/links/6686c89c0a25e27fbc247bcc/Overcoming-Obstacles-Examining-User-Resistance-to-Home-based-Health-Monitoring-Systems-among-Older-Adults.pdf)
 
+AHFE 2024<br>
 Zhao, Z., Mao, Q., Chak, Y., Cheung, T., and Wang, H.L.*<br>
 🗓️ 2024.01
 
@@ -112,6 +115,7 @@ Zhao, Z., Mao, Q., Chak, Y., Cheung, T., and Wang, H.L.*<br>
 
 [A human-centred design strategy for self-training healthcare service among visually impaired persons](https://www.tandfonline.com/doi/abs/10.1080/14606925.2023.2225718)
 
+Design Journal<br>
 Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 🗓️ 2023.09
 
@@ -124,6 +128,7 @@ Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 
 [Improving Self-management for Long COVID: Using Double Diamond Model to Design A mHealth App](https://journals.sagepub.com/doi/abs/10.1177/21695067231192582)
 
+HFES 2023
 Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 🗓️ 2023.09
 
