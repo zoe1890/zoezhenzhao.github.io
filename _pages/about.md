@@ -128,7 +128,7 @@ Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 
 [Improving Self-management for Long COVID: Using Double Diamond Model to Design A mHealth App](https://journals.sagepub.com/doi/abs/10.1177/21695067231192582)
 
-HFES 2023
+HFES 2023<br>
 Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 🗓️ 2023.09
 
