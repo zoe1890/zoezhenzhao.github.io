@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About
-Hi, I'm Zhen Zhao (Zoe). I'm a Fourth-year PhD candidate from the School of Design at The Hong Kong Polytechnic University. I am supervised by Prof. Hailiang Wang, along with my co-supervisors Prof. Jeffrey C.F. Ho and Prof. Brian Lee. My research interests are Embodied Haptic Interaction, User Experience Design, and Design for Active Aging, with a specific focus on technology-mediated health behavior change. I am dedicated to exploring how embodied design can be utilized to mediate human perception and motivate sustainable health behavior change. Feel free to reach out if you’d like to discuss research or explore potential collaboration!
+Hi, I'm Zhen Zhao (Zoe). I'm a year-4 PhD candidate from the School of Design at The Hong Kong Polytechnic University. I am supervised by Prof. Hailiang Wang, along with my co-supervisors Prof. Jeffrey C.F. Ho and Prof. Brian Lee. My research interests are Embodied Haptic Interaction, User Experience Design, and Design for Active Aging, with a specific focus on wearable-assisted digital health. I am dedicated to exploring how embodied design can be utilized to mediate human perception and motivate  health behavior change. Feel free to reach out if you’d like to discuss research or explore potential collaboration!
 
 # 📖 Educations
 - *2023.01 - now*, PhD Student in Design, School of Design, Hong Kong Polytechnic University, Hong Kong
@@ -20,7 +20,7 @@ Hi, I'm Zhen Zhao (Zoe). I'm a Fourth-year PhD candidate from the School of Desi
 - *2013.09 - 2017.07*, BA in Art Design, School of Arts, Tiangong University, Tianjin, China
 
 # 💻 Working Experiences
-- *2025.08 - now*, [Adjunct Lecturer], School of Intelligent Systems Science and Engineering, Jinan University, Guangdong
+- *2025.08 - now*, [Adjunct Lecturer], School of Intelligent Systems Science and Engineering, Jinan University, Guangdong, China
 - *2023.05 - 2024.12*, [Teaching Assistant], School of Design, Hong Kong Polytechnic University, Hong Kong
 - *2020.08 - 2022.12*, [Lecturer], Sichuan University of Media and Communications, Sichuan, China
 - *2018.08 - 2019.08*, [Assistant Designer], Tencent, Tianjin, China
@@ -37,6 +37,7 @@ Hi, I'm Zhen Zhao (Zoe). I'm a Fourth-year PhD candidate from the School of Desi
 
 [Feeling Breath Feeling You: Co-design a Cyborg-Mediated Somaesthetic Ritual for Social Connectedness]
 
+Cumulus 2025<br>
 Yin, Z.Y. *, Zhao, Z., Wang, H., Van, K., and Siu, K.W<br>
 🗓️ 2025.11
 
@@ -49,6 +50,7 @@ Yin, Z.Y. *, Zhao, Z., Wang, H., Van, K., and Siu, K.W<br>
 
 [An Empathic Design Approach to Understanding Caregivers’ Perceptions on Multi-modal Behavioral Information of Adults with Intellectual Disabilities]
 
+IASDR 2025<br>
 Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*<br>
 🗓️ 2025.10
 
@@ -61,6 +63,7 @@ Zhao, Z., Mao, Q., Du, Y.H., Lee, and Wang, H.L.*<br>
 
 [Integrating embodied cognition with the UTAUT model to investigate factors influencing the adoption of home-based health monitoring systems](https://journals.sagepub.com/doi/full/10.1177/14604582251363546)
 
+Health Informatics<br>
 Zhao, Z., Liu, K.F., Lyu, S., Wang, S.J., Chak, Y.H., and Wang, H.L.*<br>
 🗓️ 2025.07
 
