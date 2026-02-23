@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About
-Hi, I'm Zhen Zhao (Zoe). I'm a year-4 PhD candidate from the School of Design at The Hong Kong Polytechnic University. I am supervised by [Prof. Hailiang Wang](https://www.hailiang-design.com/), along with my co-supervisors Prof. Jeffrey C.F. Ho and Prof. Brian Lee. My research interests are Embodied Haptic Interaction, User Experience Design, and Design for Active Aging, with a specific focus on wearable-assisted digital health. I am dedicated to exploring how embodied design can be utilized to mediate human perception and motivate  health behavior change. Feel free to reach out if you’d like to discuss research or explore potential collaboration!
+Hi, I'm Zhen Zhao (Zoe). I'm a year-4 PhD candidate from the School of Design at The Hong Kong Polytechnic University. I am supervised by [Prof. Hailiang Wang](https://www.hailiang-design.com/), along with my co-supervisors [Prof. Jeffrey C.F. Ho](https://www.polyu.edu.hk/sd/people/academic-staff/ho-jeffrey/) and [Prof. Brian Lee](https://www.polyu.edu.hk/sd/people/academic-staff/lee-brian/). My research interests are Embodied Haptic Interaction, User Experience Design, and Design for Active Aging, with a specific focus on wearable-assisted digital health. I am dedicated to exploring how embodied design can be utilized to mediate human perception and motivate  health behavior change. Feel free to reach out if you’d like to discuss research or explore potential collaboration!
 
 # 📖 Educations
 - *2023.01 - now*, PhD Student in Design, School of Design, Hong Kong Polytechnic University, Hong Kong
@@ -135,6 +135,13 @@ Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 </div>
 </div>
 
+Under Review:
+1. Zhao, Z., Zhao, S.D, Lee, B., Wang, S.J., and Wang, H.L.* (2025). Designing with Phenomenal Bodies: A Systematic Review on Embodied Approaches in Healthcare Sensing Technology. ACM Computing Surveys. (SCI Q1, Under review).
+2. Zhao, Z., Li, J., Jeffrey, H., and Wang, H.L.* (2025). Metaphorical Body Mapping: Exploring Collaborative Haptic Experience Design in Healthcare with Older Adults. Design Studies. (SCI Q1, Under review).
+3. Zhao, Z., Li, J., Chen J.J., and Wang, H.L.* (2025). Empowering Older Adults: A Self-Determination Theory-Based Transformative Design Framework for In-Home Monitoring. International Journal of Human-computer Interaction (SCI Q1, Submitted).
+4. Li, J., Che, R.T., Zhao, Z., and Wang, H* (2025). Co-Designing Immersive Technologies with Older Adults: A Scoping Review and Design Practice Implications. Design Studies (SCI Q1, Under review).
+5. Zhao, Z., Li, J., and Wang, H.L.* (2026). Exploring Embodied Design for Technology-Mediated Emotion Intervention in Bipolar Disorder: A Mixed Methods Study. DRS 2026, Scotland, United Kingdom (Under review).
+6. Zhao, Z., and Wang, H.L.* (2026). Towards Inclusive Health Communication: A Review of Sustainable Design in Health Information Systems. 3rd International Symposium on Emerging Media for Communicating the SDGs (EMCSDGs) (Under review).
 
 # 🔍 Research Experiences 
 - *2025-2028*, Co-I: XR-based Embodied Affective-haptic Design in Emotional Engagement for Older Adults. PolyU, HK$ 500,000 
@@ -142,3 +149,12 @@ Zhao, Z., Huang, M.Z., Wang, Z.X., Lyu, S., and Wang, H.L.*<br>
 - *2023-2024*, Key team member: Design intelligence in smart homes for solitary seniors: a pilot study on an IoT-based, interactive indoor tracking system. TCL Corporate Research (Hong Kong) Co., Limited, HK$ 455,000
 - *2022-2024*, Key team member: Elderly-oriented design with virtual reality and sensing technology: prevention and evaluation of mild cognitive impairment among older adults, Shenzhen Municipal Science and Technology Innovation Commission, HK$ 350,000 
 
+#  Awards 
+- Very Satisfactory, PhD Annual Assessment (Three Consecutive Years) — School of Design, PolyU · 2023-2026
+- Second Prize, 2nd "The Spirit of National Art" Works Achievements — Ministry of Education of China · 2021
+- Third Prize, 1st "Sichuan Forest Grassland Fire Protection" Competition — Sichuan Forestry Bureau · 2020
+- Entries, 8th National College Students Ocean Culture Creative Design — Ocean University of China · 2019
+- First Prize, 1st "Wisdom Cup" National Aesthetic Education Works — Ministry of Education of China · 2018
+- Second Prize, 6th Tianjin Youth Art Festival — Tianjin Municipal Education Bureau · 2015
+- Second-class Postgraduate Scholarship — Tiangong University · 2019
+- Second-class President Scholarship — Tiangong University · 2015
